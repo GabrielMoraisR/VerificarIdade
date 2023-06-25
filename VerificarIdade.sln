@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerificarIdade", "VerificarIdade\VerificarIdade.csproj", "{944BB364-CE85-4F5A-9580-6A97F7235655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944BB364-CE85-4F5A-9580-6A97F7235655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944BB364-CE85-4F5A-9580-6A97F7235655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944BB364-CE85-4F5A-9580-6A97F7235655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944BB364-CE85-4F5A-9580-6A97F7235655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F6C0E1-08A8-406C-B3FB-5BB470D15A79}
+	EndGlobalSection
+EndGlobal
